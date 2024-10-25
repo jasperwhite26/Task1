@@ -16,4 +16,18 @@ fun main(){
         "Evening",
         180
     )
+
+    val event2 = Event(
+        "Wedding",
+        "Marriage",
+        "Afternoon",
+        60
+    )
+
+    val event3 = Event(
+        "Funeral",
+        "Death",
+        "Morning",
+        120
+    )
 }
